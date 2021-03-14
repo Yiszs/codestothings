@@ -1,2 +1,1 @@
-cout<<"hello worle!"<<endl;
-cout<<"Bye world!"<<endl;
+cout<<"hello world!"<<endl;
